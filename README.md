@@ -24,7 +24,7 @@ Document authorized provisioning, changes and deprovisioning with approval and c
 ## 4. Evidence
 | Evidence ID |Link |
 |---|---|
-| E-01 | [Screenshot]()|
+| Joiner | [Screenshot](https://github.com/sanusi-droid/Joiner-Mover-Leaver-Workflow/blob/main/Screenshot/joiner.png)|
 
 ## 5. Findings and analysis
 [What did you observe? Distinguish observed facts from hypotheses.]
